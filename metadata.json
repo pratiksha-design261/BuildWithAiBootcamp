@@ -1,0 +1,6 @@
+{
+  "name": "Tempo AI — Circadian & Daily Performance Tracker",
+  "description": "Track your daily schedule, deep work hours, workouts, sleep architecture, and focus shield with AI-powered weekly and monthly bio-rhythm analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
